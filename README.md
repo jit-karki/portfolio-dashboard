@@ -1,4 +1,4 @@
-# Real-Time Portfolio Risk & Trading Dashboard...
+# Real-Time Portfolio Risk & Trading Dashboard.
 
 A portfolio tracker that pulls live prices from Yahoo Finance and computes
 both P&L and institutional-style risk metrics (volatility, Sharpe ratio,
